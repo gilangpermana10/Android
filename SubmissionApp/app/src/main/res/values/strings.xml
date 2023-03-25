@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SubmissionApp</string>
+    <string name="foods_name">Nama Makanan khas Jawa Barat</string>
+    <string name="description">deskripsi</string>
+    <string name="email">gilanghyper27@gmail.com</string>
+    <string name="nama">gilang permana</string>
+    <string name="phone">(+62) 857 0358 6609</string>
+
+    <string-array name="data_name">
+        <item>awug</item>
+        <item>bandros</item>
+        <item>cireng</item>
+        <item>colenak</item>
+        <item>comro</item>
+        <item>gegetuk</item>
+        <item>kue Ali</item>
+        <item>kue pancong</item>
+        <item>leupeut</item>
+        <item>wajit</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Awug merupakan salah satu jajanan khas Bandung yang terbuat dari tepung beras dan kelapa yang dikukus dengan gula merah. Agak mirip dengan kue putu. Awug ini biasanya dikukus dalam wadah yang berbentuk kerucut (mirip nasi tumpeng). Rasanya manis legit dan lebih enak bila disantap saat masih hangat.</item>
+        <item>Bandros adalah makanan khas Jawa Barat, tepatnya dari Sukabumi, yang terbuat dari campuran tepung beras, kelapa parut, dan santan. Bentuknya mirip dengan kue pukis karena memang menggunakan cetakan yang serupa. Namun tentu saja rasanya berbeda dengan pukis yang memiliki citarasa manis. Bandros memiliki rasa gurih kelapa/santan. Ada juga bandros manis yang bagian atasnya ditaburi gula putih.</item>
+        <item>Cireng adalah singkatan dari aci digoreng, sedangkan cilok adalah aci dicolok. Sesuai dengan namanya, cireng terbuat dari tepung aci/tapioka yang diberi bumbu lalu digoreng. Dengan berkembangnya jaman, pengolahan cireng menjadi semakin inovatif. Kini ada cireng dengan berbagai macam isi, mulai dari keju, daging ayam, sosis, barbeque. Ada juga rujak cireng yaitu cireng dicocol dengan bumbu kecap cengek.</item>
+        <item>Colenak berasal dari singkatan “dicocol enak”. Penganan khas tanah Parahyangan ini terbuat dari peuyeum (tape singkong) yang dibakar. Colenak ini disantap dengan cara dicocolkan pada gula jawa cair yang dicampur dengan serutan kelapa. Kudapan ini diperkenalkan oleh Aki Murdi pada tahun 1930.</item>
+        <item>comro adalah makanan yang dibuat dari singkong yang dihaluskan dan diisi dengan oncom, maka dari itu disebut comro atau "oncom dijero" yang artinya oncom didalam</item>
+        <item>gegetuk adalah kue khas jawa barat, Pembuatan getuk diawali dengan mengupas singkong dan merebusnya. Setelah matang singkong ditumbuk atau dihaluskan dengan cara digiling lalu diberi pemanis gula dan pewarna makanan. Sebagai pelengkap, biasanya getuk ditaburi dengan parutan kelapa</item>
+        <item>Bentuknya mirip dengan donat hanya saja ukurannya lebih kecil. Ali agrem merupakan santapan tradisional Jawa Barat yang terbuat dari adonan tepung beras, kelapa sangrai, dan gula merah yang digoreng. Dinamakan ali agrem karena bentuknya seperti ali atau cincin yang melingkar. Ali agrem ini biasanya disuguhkan pada acara-acara pernikahan. Di tanah betawi, ali agrem ini dikenal dengan nama kue cincin.</item>
+        <item>kue pancong adalah jenis kue yang berbentuk seperti bulan sabit</item>
+        <item>Nah, yang tidak biasa berbahasa sunda biasanya bakalan salah saat mengucapkan lafal ‘eu’ pada kata leupeut ini. Leupeut (bukan lepet) adalah penganan yang terbuat dari beras atau ketan yang dibungkus dengan daun pisang atau daun kelapa yang dilipat lalu diikat. Leupeut ini bisa diisi kacang ataupun oncom. Sekilas, leupeut ini mirip dengan lontong. Rasanya pun mirip. Hal yang membedakan leupeut dengan lontong terutama adalah dari cara membungkusnya.</item>
+        <item>Wajit adalah penganan yang dibuat dari gula kawung atau gula aren, kelapa, gula putih, beras ketan dan vanili. Semua bahan ini lalu disatukan dan diaduk di dalam wajan hingga masak dengan menggunakan api tungku. Wajit yang sudah masak lalu dibungkus dengan daun jagung kering lalu dijemur hingga kering. Karena dijemur itulah wajit memiliki tekstur agak kering di bagian luarnya dan lembut bagian dalamnya. Karena kepopulerannya, tak heran bila wajit cililin ini masih senantiasa diproduksi oleh para perajinnya.</item>
+    </string-array>
+
+    <string-array name="data_pics">
+        <item>@drawable/awug</item>
+        <item>@drawable/bandros</item>
+        <item>@drawable/cireng</item>
+        <item>@drawable/colenak</item>
+        <item>@drawable/comro</item>
+        <item>@drawable/gegetuk</item>
+        <item>@drawable/kue_ali</item>
+        <item>@drawable/kue_pancong</item>
+        <item>@drawable/leupeut</item>
+        <item>@drawable/wajit</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+
+        <string-array name="food_names">
+            <item>awug</item>
+            <item>bandros</item>
+            <item>cireng</item>
+            <item>colenak</item>
+            <item>comro</item>
+            <item>gegetuk</item>
+            <item>kue ali</item>
+            <item>kuepancong</item>
+            <item>leupeut</item>
+            <item>wajit</item>
+        </string-array>
+
+        <string-array name="food_descriptions">
+            <item>Description for food 1</item>
+            <item>Description for food 2</item>
+            <item>Description for food 3</item>
+            <item>Description for food 4</item>
+            <item>Description for food 5</item>
+            <item>Description for food 6</item>
+            <item>Description for food 7</item>
+            <item>Description for food 8</item>
+            <item>Description for food 9</item>
+            <item>Description for food 10</item>
+
+
+        </string-array>
+
+        <array name="food_images">
+            <item>@drawable/awug</item>
+            <item>@drawable/bandros</item>
+            <item>@drawable/cireng</item>
+            <item>@drawable/colenak</item>
+            <item>@drawable/comro</item>
+            <item>@drawable/gegetuk</item>
+            <item>@drawable/kueali</item>
+            <item>@drawable/kuepancong</item>
+            <item>@drawable/leupeut</item>
+            <item>@drawable/wajit</item>
+        </array>
+
+</resources>

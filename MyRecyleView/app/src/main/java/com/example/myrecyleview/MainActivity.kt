@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.RecyclerView
 class MainActivity : AppCompatActivity() {
     private lateinit var rvHeroes: RecyclerView
     private val list = ArrayList<Hero>()
-
+    
     @SuppressLint("MissingInflatedId")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
