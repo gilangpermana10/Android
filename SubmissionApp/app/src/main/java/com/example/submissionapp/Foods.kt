@@ -5,13 +5,17 @@ import android.os.Parcelable
 
 
 data class Foods(
-    val name : String,
-    val desc : String,
-    val photo : Int
-):Parcelable {
+    val name: String?,
+    val desc: String?,
+    val bahan:String?,
+    val resep:String?,
+    val photo: Int
+): Parcelable {
     constructor(parcel: Parcel) : this(
-        parcel.readString()?:"",
-        parcel.readString()?:"",
+        parcel.readString(),
+        parcel.readString(),
+        parcel.readString(),
+        parcel.readString(),
         parcel.readInt()
     ) {
     }
@@ -19,6 +23,8 @@ data class Foods(
     override fun writeToParcel(parcel: Parcel, flags: Int) {
         parcel.writeString(name)
         parcel.writeString(desc)
+        parcel.writeString(bahan)
+        parcel.writeString(resep)
         parcel.writeInt(photo)
     }
 

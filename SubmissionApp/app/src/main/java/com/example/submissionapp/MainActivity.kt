@@ -29,9 +29,11 @@ class MainActivity : AppCompatActivity() {
         val dataName = resources.getStringArray(R.array.data_name)
         val dataDescription = resources.getStringArray(R.array.data_description)
         val dataPhoto = resources.obtainTypedArray(R.array.data_pics)
+        val dataBahan = resources.getStringArray(R.array.bahan)
+        val dataResep = resources.getStringArray(R.array.resep)
         val listFoods = ArrayList<Foods>()
         for (i in dataName.indices) {
-            val Foods = Foods(dataName[i], dataDescription[i], dataPhoto.getResourceId(i, -1))
+            val Foods = Foods(dataName[i], dataDescription[i], dataBahan[i],dataResep[i], dataPhoto.getResourceId(i, -1))
             listFoods.add(Foods)
         }
         return listFoods
