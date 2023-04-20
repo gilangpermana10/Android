@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b9e7fa7-3411-4457-8090-0100919fac0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Android-Fundamental/ActionBar/app/src/main/java/com/androidgilang/myactionbar/MenuFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Android-Fundamental/ActionBar/app/src/main/java/com/androidgilang/myactionbar/MenuFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Android-Fundamental/ActionBar/app/src/main/res/drawable/baseline_announcement_black_24dp.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Android-Fundamental/ActionBar/app/src/main/res/drawable/baseline_announcement_black_24dp.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Android-Fundamental/ActionBar/app/src/main/res/drawable/outline_search_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Android-Fundamental/ActionBar/app/src/main/res/drawable/outline_search_24.xml" afterDir="false" />
@@ -320,7 +322,7 @@
       <change beforePath="$PROJECT_DIR$/../Android-Fundamental/Navigation/MyNavigation/caches/jars-9/ec3e98a2fc6b65fd1e7ccf06050911a1/databinding-compiler-common-7.4.2.jar.lock.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Android-Fundamental/Navigation/MyNavigation/caches/jars-9/ec3e98a2fc6b65fd1e7ccf06050911a1/databinding-compiler-common-7.4.2.jar.lock.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Android-Fundamental/Navigation/MyNavigation/caches/jars-9/ec3e98a2fc6b65fd1e7ccf06050911a1/databinding-compiler-common-7.4.2.jar.receipt" beforeDir="false" afterPath="$PROJECT_DIR$/../Android-Fundamental/Navigation/MyNavigation/caches/jars-9/ec3e98a2fc6b65fd1e7ccf06050911a1/databinding-compiler-common-7.4.2.jar.receipt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Android-Fundamental/Navigation/MyNavigation/caches/jars-9/f041a2017f2a76b415e56e90609ba18b/kotlin-stdlib-1.7.10.jar.lock.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Android-Fundamental/Navigation/MyNavigation/caches/jars-9/f041a2017f2a76b415e56e90609ba18b/kotlin-stdlib-1.7.10.jar.lock.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Android-Fundamental/Navigation/MyNavigation/caches/jars-9/f8f785e3d078e6f2e4c479ca9ac12fe8/gradle-api-impldep-7.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Android-Fundamental/Navigation/MyNavigation/caches/jars-9/f8f785e3d078e6f2e4c479ca9ac12fe8/gradle-api-impldep-7.4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android-Fundamental/Navigation/MyNavigation/caches/jars-9/f8f785e3d078e6f2e4c479ca9ac12fe8/gradle-api-impldep-7.4.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Android-Fundamental/Navigation/MyNavigation/caches/modules-2/metadata-2.99/descriptors/androidx.annotation/annotation/1.0.0/11cd36a7dcab7d14d0c14c5e6c7582e3/descriptor.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Android-Fundamental/Navigation/MyNavigation/caches/modules-2/metadata-2.99/descriptors/androidx.annotation/annotation/1.0.0/11cd36a7dcab7d14d0c14c5e6c7582e3/descriptor.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Android-Fundamental/Navigation/MyNavigation/caches/modules-2/metadata-2.99/descriptors/androidx.arch.core/core-runtime/2.1.0/11cd36a7dcab7d14d0c14c5e6c7582e3/descriptor.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Android-Fundamental/Navigation/MyNavigation/caches/modules-2/metadata-2.99/descriptors/androidx.arch.core/core-runtime/2.1.0/11cd36a7dcab7d14d0c14c5e6c7582e3/descriptor.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Android-Fundamental/Navigation/MyNavigation/caches/modules-2/metadata-2.99/descriptors/androidx.collection/collection/1.1.0/11cd36a7dcab7d14d0c14c5e6c7582e3/descriptor.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Android-Fundamental/Navigation/MyNavigation/caches/modules-2/metadata-2.99/descriptors/androidx.collection/collection/1.1.0/11cd36a7dcab7d14d0c14c5e6c7582e3/descriptor.bin" afterDir="false" />
@@ -2200,7 +2202,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
@@ -2245,6 +2246,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Obnsu0Cca7Wvmmneuz9N3zBkGo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -2256,7 +2260,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cidr.known.project.marker": "true"
   }
 }]]></component>
